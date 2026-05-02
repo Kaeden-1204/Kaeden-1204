@@ -1,4 +1,4 @@
-# Hi, I'm Kaeden 👋
+# Hey, I'm Kaeden 👋
 # 👨‍💻 About Me
 I'm a FullStack-developer currently studying at IIE Varsity College – Westville Campus.
 I have a strong willingness to learn and adapt, and I enjoy building applications that help me grow my skills and solve real-world problems.
